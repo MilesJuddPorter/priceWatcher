@@ -4,6 +4,15 @@
 
 <img width="326" alt="Screen Shot 2021-09-07 at 12 51 45 PM" src="https://user-images.githubusercontent.com/13202373/132382923-953eaf23-44a1-49fc-9cfe-2e2667ae6384.png">
 
+
+HOW TO UPDATE STOCK/CRYPTO LIST:
+1. Go into "tickers.py"
+2. Add any stocks you want to the stockTickers list
+3. Add any crypto you want to the cryptoNames list
+4. Enjoy :)
+
+
+
 HOW TO TURN THIS INTO A DESKTOP APP ON MAC:
 
 1. Create a shell script with the following: (MAKE SURE YOU HAE THE RIGHT LOCATION FOR THE FILE THAT YOU ARE CD ing TO)
