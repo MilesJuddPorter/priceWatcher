@@ -2,7 +2,10 @@ stockTickers = [
 "SPY",
 "CRSR",
 "LOGI",
-"RBLX"]
+"RBLX",
+"TTCF",
+"PLTR",
+"NKE"]
 
 
 

@@ -50,7 +50,7 @@ def getCryptoData(name):
 		percentChange = soup.find('span', {"class": "sc-15yy2pl-0 feeyND"}).text
 		up = False
 	except:
-		percentChange = soup.find('span', {"class": "icon-Caret-up"}).find('span').text
+		percentChange = soup.find('span', {"class": "sc-15yy2pl-0 gEePkg"}).text
 		up = True
 	amountChange = soup.find('div', {"class": "sc-16r8icm-0 fmPyWa"}).find('table').find('tbody').find_all('tr')[1].find('td').find('span').text
 	amountChange = amountChange.replace('$', '')
